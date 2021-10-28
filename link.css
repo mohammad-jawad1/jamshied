@@ -1,0 +1,24 @@
+a:link,
+a:visited
+
+{
+ color:white;
+ background-color: mediumaquamarine;
+ border-radius: 10px;
+ transition-duration: 3s;
+ padding: 2px 8px;
+    margin: 15px;
+ 
+}
+/* if you want to decoration at the first time on link us the above code*/
+
+
+
+a:hover{text-decoration:none;
+    color:black;
+    background-color: rgb(235, 172, 235);
+}
+/* and after you want to click on it this decor is come.*/
+p{
+    text-decoration: underline;/* for fun*/
+}
